@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Banner de perfil de GitHub](https://github.com/SaidMtzP/SaidMtzP/blob/main/banner.jpeg?raw=true)
+
 # 👋 ¡Hola! Soy Angel
 
 Soy Ingeniero especializadome en ciencia de datos, con experiencia en desarrollo de soluciones tecnológicas, automatización industrial y análisis de datos.
